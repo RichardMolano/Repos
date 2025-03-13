@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos-personal\\GoingMerry_v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816CA63D-F449-4422-82C3-A8D75B3285A6}|GoingMerry_v2\\GoingMerry_v2.csproj|d:\\repos-personal\\goingmerry_v2\\goingmerry_v2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{816CA63D-F449-4422-82C3-A8D75B3285A6}|GoingMerry_v2\\GoingMerry_v2.csproj|solutionrelative:goingmerry_v2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Repos-personal\\GoingMerry_v2\\GoingMerry_v2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GoingMerry_v2\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Repos-personal\\GoingMerry_v2\\GoingMerry_v2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GoingMerry_v2\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T21:31:21.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
